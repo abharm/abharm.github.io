@@ -19,7 +19,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   I'm passionate about robotics and space, and am always eager to get my hands dirty and learn more.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: assets/IMG_5061.jpeg
 
 
 # Link your resume
