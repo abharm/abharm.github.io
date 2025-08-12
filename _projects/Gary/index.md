@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Gary the Combat Robot
-description:  short description of the project
+description:  Designed and assembled an ant-weight (1lb) robot for a robotics combat competition.
 skills: 
-- skill 1
-- skill 2
-main-image: /project.webp 
+- Solidworks
+- 3D Printing
+- Soldering
+main-image: _projects/Gary/Screenshot_2025-03-10_200717.png
 ---
