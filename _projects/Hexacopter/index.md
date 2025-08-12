@@ -5,5 +5,5 @@ description:  As part of the payload subteam, we needed to find a better way to 
 skills: 
 - PID tuning
 - Soldering
-main-image: /project.webp 
+main-image: /_projects/Hexacopter/IMG_5061.jpeg
 ---
