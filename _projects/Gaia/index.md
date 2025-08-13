@@ -6,6 +6,6 @@ skills:
 - C++
 - Fusion 360
 - Soldering
-main-image: /_projects/Hexacopter/IMG_5061.jpeg
+main-image: Screenshot 2025-08-12 223408.png
 ---
 
