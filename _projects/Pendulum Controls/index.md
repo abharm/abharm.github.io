@@ -6,6 +6,6 @@ skills:
 - Controls
 - Simulation
 - Python
-main-image: Screenshot 2025-08-12 222614.png
+main-image: /'Screenshot 2025-08-12 222614.png'
 ---
 
