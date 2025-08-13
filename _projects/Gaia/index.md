@@ -6,6 +6,6 @@ skills:
 - C++
 - Fusion 360
 - Soldering
-main-image: /'Screenshot 2025-08-12 223408.png'
+main-image: /Screenshot 2025-08-12 223408.png
 ---
 
