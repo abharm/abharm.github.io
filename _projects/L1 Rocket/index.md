@@ -5,6 +5,6 @@ description:  I built a rocket with a planned altitude of 3.5k feet in order to 
 skills: 
 - Open Rocket
 - Simulation
-main-image: /IMG_5061.jpeg
+main-image: /IMG_0410.jpeg
 ---
 
