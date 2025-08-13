@@ -6,5 +6,5 @@ skills:
 - Solidworks
 - 3D Printing
 - Soldering
-main-image: /'Screenshot_2025-03-10_200717.png'
+main-image: /Screenshot_2025-03-10_200717.png
 ---
