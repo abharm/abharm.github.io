@@ -6,6 +6,6 @@ skills:
 - Python
 - Data Analysis
 - Simulation
-main-image: /project.webp 
+main-image: /Screenshot 2025-08-13 100410.png
 ---
 
